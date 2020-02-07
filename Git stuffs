@@ -1,0 +1,33 @@
+Git stuffs
+
+## how to move a folder to the right place
+
+##How to remove a git repo (locally)
+cd ~/path/to/repo_to_remove
+pwd
+rm -rf .git
+
+## working with sql pro
+
+- make sure you choose "save query", *not* save connection *with* the .sql extension
+- how to save files wint he right place
+
+1. remove the file
+2. add & commit the face we removed the file
+
+
+##How to remove a file from git
+
+``` 
+rm file_to_delete
+git add file_to_deletegit commit -m "Removed the file to delete"
+```
+
+## How to search for a file or directory on the command line
+
+the 'find' command
+
+```
+find ~/codeup-data-science -name '*codeup*'
+```
+
