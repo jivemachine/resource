@@ -1,0 +1,12 @@
+Fundamental questions that ML can answer:
+
+1. How many or how much of something? (regression)
+
+2. Is this observation A or B (or C or D)? (classification)
+
+3. What groupings exist in the data already? ( clustring)
+
+4. What should I do next? What will likely happen next? (Time Series)
+
+5. Is this thing weird? (anomaly detection)
+
