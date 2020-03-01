@@ -1,0 +1,3 @@
+
+message = "HARRO!"
+print(message)
